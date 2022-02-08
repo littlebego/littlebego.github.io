@@ -1,5 +1,25 @@
-body 
+body
 {
     max-width: 700px;
     margin: auto;
+}
+
+a:link
+{
+  color: blue;
+}
+
+a:visited
+{
+  color: blue;
+}
+
+a:hover
+{
+  color: green;
+}
+
+a:active
+{
+  color: pink;
 }
