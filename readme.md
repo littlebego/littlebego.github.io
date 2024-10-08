@@ -1,1 +1,1 @@
-my website didn't work without a readme file. why are you here, anyway? not like in a cosmic sense, but reading this file. there's nothing useful in readme files ever. go home, you're drunk.
+hey. my name is anthony and this is my website. im 100% experimenting with this space. im going for retro meets open-source meets "screw it, i'll host it on github because it's free." we'll see how it goes. is this brutalism or minimalism? no one will ever know. i'm getting away from social media in general because it's terrible for artists. and in general. welcome!
